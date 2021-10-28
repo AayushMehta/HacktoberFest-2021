@@ -1,0 +1,7 @@
+{
+    "Name":"Aayush Mehta",
+    "Occupation":"Computer Science Student",
+    "UserName" : "aayushMehta",
+    "StarredTheRepo":true,
+    "FavouriteQuote":"Eat Sleep Code Repeate"
+}
